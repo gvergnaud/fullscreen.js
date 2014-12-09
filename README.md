@@ -24,7 +24,7 @@ Add fullscreen.native.js to you project
 then call FullScreen
 
 ```js
-FullScreen('#myVid', options);
+Fullscreen('#myVid', options);
 ```
 ## jQuery :
 Add fullscreen.jquery.js to you project 
@@ -44,7 +44,7 @@ if set too true, your video or image wont be cropped.
 
 example :
 ```js
-FullScreen('#myVid', {noCrop: true});
+Fullscreen('#myVid', {noCrop: true});
 ```
 default value is false.
 
@@ -53,6 +53,6 @@ set the position css property to your image or video.
 
 example :
 ```js
-FullScreen('#myVid', {position: 'absolute'});
+Fullscreen('#myVid', {position: 'absolute'});
 ```
 default value is relative.
