@@ -40,7 +40,7 @@ $('#myVid').fullscreen(options);
 ## Options :
 
 ####noCrop
-if set too true, your video or image wont be cropped. 
+if set to true, your video or image wont be cropped. 
 
 example :
 ```js
